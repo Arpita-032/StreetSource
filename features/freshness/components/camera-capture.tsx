@@ -1,3 +1,4 @@
+//features\freshness/components/camera-capture.tsx
 'use client'
 import { useRef, useState, useEffect } from 'react'
 import { useFreshnessScan } from '../hooks/use-freshness-scan'
